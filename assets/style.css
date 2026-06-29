@@ -1,0 +1,36 @@
+.main-title{
+    text-align:center;
+    font-size:3rem;
+    font-weight:bold;
+    color:#FF6B35;
+}
+
+.sub-title{
+    text-align:center;
+    color:#666;
+    margin-bottom:25px;
+}
+
+.block-container{
+    padding-top:2rem;
+}
+
+.stMetric{
+    border-radius:15px;
+    border:1px solid #ececec;
+    padding:10px;
+    box-shadow:0 4px 10px rgba(0,0,0,.08);
+}
+
+.stButton>button{
+    width:100%;
+    border-radius:12px;
+    font-size:16px;
+    font-weight:bold;
+}
+
+.stFileUploader{
+    border:2px dashed #FF6B35;
+    border-radius:15px;
+    padding:15px;
+}
